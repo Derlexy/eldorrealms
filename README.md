@@ -1,2 +1,3 @@
-# eldorrealms
-This is a free time project of an RPG server.
+# Eldor Realms Development
+
+Eldor Realms is a project who pretends to develop a MMORPG server based on Tibia.
