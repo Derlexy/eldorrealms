@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <items>
+
+	<!-- ELDOR REALMS ITEMS: -->
+		<!-- Green Grass Shallow Water: -->
+	<item fromid="15653" toid="15664" name="shallow water">
+		<attribute key="allowpickupable" value="1" />
+		<attribute key="fluidSource" value="water" />
+	</item>
+		<!-- White Sand Shallow Water: -->
+	<item fromid="15665" toid="15676" name="shallow water">
+		<attribute key="allowpickupable" value="1" />
+		<attribute key="fluidSource" value="water" />
+	</item>
+
 	<item id="100" name="void" />
 	<item id="101" name="earth" />
 	<item id="103" name="dirt" />
@@ -15582,7 +15595,7 @@
 	<item id="8843" article="an" name="onion">
 		<attribute key="weight" value="140" />
 	</item>
-	<item id="8844" name="jalapeño pepper" article="a">
+	<item id="8844" name="jalapeï¿½o pepper" article="a">
 		<attribute key="weight" value="30" />
 	</item>
 	<item id="8845" article="a" name="beetroot">
@@ -17615,7 +17628,7 @@
 		<attribute key="description" value="This one would be quite healthy if it wasn't for all the melted cheese on top." />
 		<attribute key="weight" value="1100" />
 	</item>
-	<item id="9998" article="a" name="filled jalapeño peppers">
+	<item id="9998" article="a" name="filled jalapeï¿½o peppers">
 		<attribute key="description" value="The creamy cheese makes a great combination with the spicy peppers." />
 		<attribute key="weight" value="650" />
 	</item>
