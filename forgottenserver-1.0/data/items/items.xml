@@ -12,6 +12,18 @@
 		<attribute key="allowpickupable" value="1" />
 		<attribute key="fluidSource" value="water" />
 	</item>
+		<!-- Dirt Ground Shallow Water: -->
+	<item fromid="15677" toid="15688" name="shallow water">
+		<attribute key="allowpickupable" value="1" />
+		<attribute key="fluidSource" value="water" />
+	</item>
+		<!-- Dirt Grass Shallow Water: -->
+	<item fromid="15693" toid="15704" name="shallow water">
+		<attribute key="allowpickupable" value="1" />
+		<attribute key="fluidSource" value="water" />
+	</item>
+		<!-- Dirt and Green Grass Ground: -->
+	<item fromid="15705" toid="15716" name="dirt grass"/>
 
 	<item id="100" name="void" />
 	<item id="101" name="earth" />
